@@ -5,3 +5,4 @@ we are adding some more date to learn about pull
 
 added for every min build 
 added 
+save xomminy
